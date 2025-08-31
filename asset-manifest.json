@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bb33af02.css",
+    "main.js": "/static/js/main.b00e4c74.js",
+    "static/media/auth.png": "/static/media/auth.20d5979b439e1531640d.png",
+    "static/media/login-bg.jpeg": "/static/media/login-bg.4ddbc27cedc70a22a6fa.jpeg",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.bb33af02.css",
+    "static/js/main.b00e4c74.js"
+  ]
+}
